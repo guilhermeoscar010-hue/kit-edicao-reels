@@ -1,0 +1,11 @@
+# GLOSSARIO - termos do SEU nicho. Cada linha vira contexto pro Whisper e DESTAQUE automatico na legenda.
+# Marcadores: ~termo = so ajuda a transcricao (sem destaque); !termo = termo de impacto (punch + ding).
+# Correcoes: "errado => certo". Troque os exemplos abaixo pelos seus termos.
+exemplo de termo
+!exemplo de impacto
+~termo so para transcricao
+lucro
+desconto
+link
+# correcoes conhecidas
+palavra errada => palavra certa

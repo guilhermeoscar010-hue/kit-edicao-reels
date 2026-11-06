@@ -1,0 +1,19 @@
+{
+  "_sobre": "Estilo das referencias videoJB (ESTILO.md secao 6). Usado por ferramentas/gerar_ref.py. Ainda nao travado: ajustar por rodada Style Lab.",
+  "legenda": {
+    "fonte": "Poppins",
+    "peso": 800,
+    "cor": "#FFFFFF",
+    "tamanho": 68,
+    "tamanho_destaque": 112,
+    "y_topo": 1180,
+    "sombra": ["0 0 3px rgba(0,0,0,0.7)", "0 4px 14px rgba(0,0,0,0.85)", "0 10px 36px rgba(0,0,0,0.6)"],
+    "destaque_cor": "#F5D90A"
+  },
+  "atras": { "fonte": "Poppins", "peso": 900, "y_topo": 380, "cor": "#F5D90A", "cor_alt": "#FFFFFF" },
+  "topo": { "y_topo": 150 },
+  "cor": "saturate(1.28) contrast(1.08) brightness(1.03)",
+  "camera": { "origem": "50% 30%" },
+  "flash": { "cor": "#FFF6C8", "opacidade": 0.25 },
+  "sfx_volume": { "whoosh": 0.4, "whip": 0.3, "ding": 0.3, "vine-boom": 0.35, "mouse-click": 0.5, "page-turn": 0.4, "shutter-modern": 0.4 }
+}

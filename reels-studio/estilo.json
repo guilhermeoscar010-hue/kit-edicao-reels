@@ -1,0 +1,22 @@
+﻿{
+  "_sobre": "Estilo TRAVADO (aprovado). Mudar so com pedido do Guilherme ou rodada Style Lab. Ver ESTILO.md.",
+  "legenda": {
+    "max_palavras": 3,
+    "fonte": "Montserrat",
+    "peso": 800,
+    "minusculo": true,
+    "cor": "#FFFFFF",
+    "tamanho_max": 96,
+    "largura_max": 960,
+    "largura_por_char": 0.6,
+    "espacamento": -0.5,
+    "y_centro": 1300,
+    "sombra": ["0 0 4px rgba(0,0,0,0.6)", "0 4px 18px rgba(0,0,0,0.85)", "0 10px 44px rgba(0,0,0,0.75)"],
+    "destaque_gradiente": "linear-gradient(180deg, #F0DCA8 0%, #E4CB93 30%, #C9A45C 68%, #B8914A 100%)",
+    "_destaque_paleta": "paleta da campanha. Trocar o gradiente quando a campanha tiver outra paleta."
+  },
+  "camera": { "origem": "50% 32%" },
+  "flash": { "cor": "#F3EEE4", "opacidade": 0.28 },
+  "sfx_volume": { "whoosh": 0.4, "whip": 0.3, "ding": 0.3, "vine-boom": 0.35, "mouse-click": 0.5, "page-turn": 0.4, "shutter-modern": 0.4 }
+}
+

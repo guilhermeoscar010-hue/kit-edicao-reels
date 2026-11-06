@@ -1,0 +1,14 @@
+.env
+*.env
+.venv/
+node_modules/
+__pycache__/
+reels-studio/projetos/
+reels-studio/modelos/*.onnx
+reels-studio/sfx/*.wav
+Videos para editar/
+Videos editados/
+Videos de referência/
+*.mp4
+*.mov
+*.MOV
